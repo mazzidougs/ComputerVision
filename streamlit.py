@@ -51,7 +51,7 @@ plt.show()
 st.code(code, language='python')
 
 # Define the output of the code (the image)
-output_image_path = "IMG_3240.jpeg"  # Replace with your image path
+output_image_path = "img_FaceDetection.png"  # Replace with your image path
 
 # Display the output
 st.text("Output:")
